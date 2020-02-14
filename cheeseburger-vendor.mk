@@ -50,4 +50,5 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/libmmcamera2_mct.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_mct.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/libmmcamera2_sensor_modules.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_sensor_modules.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/libmmcamera2_stats_modules.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera2_stats_modules.so \
+    vendor/oneplus/cheeseburger/proprietary/vendor/lib/libmmcamera_imx350.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_imx350.so \
     vendor/oneplus/cheeseburger/proprietary/vendor/lib/libmmcamera_imx398.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmcamera_imx398.so
